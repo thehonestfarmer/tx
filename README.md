@@ -445,7 +445,7 @@ Evidence atoms are a globally shared pool. When someone verifies a piece of evid
 
 ---
 
-**Website:** truthexchange.app **Twitter/X:** @chungusfarmer **Token:** $TX on Solana (Pump.fun) **Contact:** team@truthexchange.app **GitHub:** github.com/thehonestfarmer
+**Website:** honestfarming.tech/truthexchange **Twitter/X:** @chungusfarmer **Token:** $TX on Solana (Pump.fun) **Contact:** team@honestfarming.tech/truthexchange **GitHub:** github.com/thehonestfarmer
 
 ---
 
